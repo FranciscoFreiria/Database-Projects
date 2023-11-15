@@ -1,0 +1,11 @@
+This subject was taught by a project: "Dental clinic database".
+
+
+Global objective: the development of an information system supporting the day-to-day operations of a dental clinic. The relational database associated with this information system aims, not only to offer an all-purpose archive and organization tool for the different types of data generated during clinical practice, but also to provide a complete data mining platform
+
+
+Part1: Database Modeling;
+
+Part2: Implementing the Database;
+
+Part3: Using the Database.
